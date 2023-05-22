@@ -8,7 +8,7 @@ import { Course } from '../model/course';
 })
 export class ListCoursesComponent implements OnInit {
 
-  courses: Course[] = [
+  courses: Course [] = [
     { _id: "1", name:'Angular', category: 'front-end' }
   ];
   displayedColumns = ['name','category'];
