@@ -21,7 +21,7 @@ import { CoursesRoutingModule } from './courses-routing.module';
     CoursesRoutingModule,
     AppMaterialModule,
     SharedModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
   ]
 })
 export class CoursesModule { }
