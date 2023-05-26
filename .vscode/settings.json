@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "Curso"
-    ]
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
 }
